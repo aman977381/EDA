@@ -1,4 +1,4 @@
-# EDA on Obesity or CVD risk
+# EDA on Obesity or CVD risk Data
 
 ### Kaggle links
 1. [Original Data](https://www.kaggle.com/datasets/aravindpcoder/obesity-or-cvd-risk-classifyregressorcluster) 
